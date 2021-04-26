@@ -1,4 +1,4 @@
 secrets.txt
-
+secret2.txt
 # This is a comment, in the .gitignore file. 
 # We can also use wild cards in .gitignore
